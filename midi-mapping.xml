@@ -1,0 +1,17 @@
+<!DOCTYPE KeyboardML>
+<keyboard>
+ <map name="-" action="chann=default  action=zoom value=&quot;+1&quot;"/>
+ <map name="+" action="chann=default  action=zoom value=&quot;-1&quot;"/>
+ <map name="Shift+Right" action="chann=2  action=browser_load_deck value=&quot;auto&quot;"/>
+ <map name="Shift+Left" action="chann=1  action=browser_load_deck value=&quot;auto&quot;"/>
+ <map name="Shift+S" action="chann=default  action=scratch_mode value=&quot;0&quot;"/>
+ <map name="Right" action="chann=default  action=arrow_pressed value=&quot;+1&quot;"/>
+ <map name="Left" action="chann=default  action=arrow_pressed value=&quot;-1&quot;"/>
+ <map name="Down" action="chann=default  action=browser_up_down value=&quot;+1&quot;"/>
+ <map name="Up" action="chann=default  action=browser_up_down value=&quot;-1&quot;"/>
+ <map name="B" action="chann=default  action=BPM_tap value=&quot;1&quot;"/>
+ <map name="B" action="chann=default  action=BPM_tap value=&quot;1&quot;"/>
+ <map name="Space" action="chann=default  action=extend_browser value=&quot;auto&quot;"/>
+ <map name="F" action="chann=1  action=play_pause value=&quot;0&quot;"/>
+ <map name="J" action="chann=2  action=play_pause value=&quot;0&quot;"/>
+</keyboard>
